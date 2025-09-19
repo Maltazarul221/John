@@ -35,3 +35,5 @@ cd scripts
     To start jupyter
 
 jupyter notebook
+
+
