@@ -26,7 +26,7 @@ print(A)
 C = np.arange(2,8)
 print(C)
 
-## evenly spaced numbers over an interval
+#evenly spaced numbers over an interval
 D = np.linspace(0,1,5)
 print(D)
 
