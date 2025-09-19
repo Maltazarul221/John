@@ -29,3 +29,15 @@ print(C)
 ## evenly spaced numbers over an interval
 D = np.linspace(0,1,5)
 print(D)
+
+#Vector declaration from existing data
+E = np.asarray((5,7,3,2))
+print(E)
+
+#Vector declaration from shape or value
+F = np.empty(8)
+G = np.full(9,2)
+H = np.zeros_like(F)
+
+## print with newline separator
+print(F,G,H, sep=" n")
