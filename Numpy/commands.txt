@@ -1,0 +1,37 @@
+pip install numpy
+pip install jupyter
+
+
+ 	To check env:
+
+pip list
+
+    To exit env:
+
+deactivate
+
+
+ 	To recreate env:
+
+python -m venv .venv
+
+	To delete env:
+
+Windows
+Remove-Item -Recurse -Force .venv
+
+Linux
+rmdir /s /q .venv
+
+	If env is not the right one
+
+run the script from here: .\.venv\Scripts\activate
+
+cd ./.venv
+cd scripts
+./activate
+
+
+    To start jupyter
+
+jupyter notebook
