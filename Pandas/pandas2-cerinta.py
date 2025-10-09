@@ -31,7 +31,13 @@ for i, chunk in enumerate(pd.read_csv("angajati.csv", chunksize=3)):
 # Exercițiul 4: Numărarea angajaților pe departament folosind chunk-uri
 # Cerință: Calculează numărul de angajați per departament fără a încărca tot CSV-ul simultan
 # ==============================================
+dep_count = {}
 for chunk in pd.read_csv("angajati.csv", chunksize=3):
+    counts = chunk["Departament"]. value_counts()
+    for dept, cnt in counts.items():
+        dept.counts[dept] = dept.counts.get((dept , 0))
+
+
     print()
 
 # ==============================================
