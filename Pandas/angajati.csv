@@ -1,0 +1,11 @@
+id,nume,departament,oraș,salariu,vârstă,experiență_ani,salariu-anual
+1,Ana,HR,București,4500.0,25,2,54000.0
+2,Bogdan,IT,Cluj,7200.0,31,7,86400.0
+3,Carmen,IT,Necunoscut,6800.0,29,5,81600.0
+4,Dan,Finance,Timișoara,5720.000000000001,45,20,68640.00000000001
+5,Elena,HR,Cluj,4500.0,26,3,54000.0
+6,Florin,Marketing,București,6126.666666666667,34,10,54000.0
+7,Gina,Finance,Iași,5610.0,41,18,67320.0
+8,Horațiu,IT,Cluj,8250.0,38,12,99000.0
+9,Ioana,Marketing,Timișoara,6400.0,28,6,76800.0
+10,Jianu,Finance,București,6160.000000000001,36,15,73920.00000000001
