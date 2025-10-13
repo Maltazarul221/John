@@ -385,6 +385,33 @@ print(a)
 #We can use three double quotes:
 
 a = """this is just  text
-to prrove the 3 double quotes"""
+to prove the 3 double quotes"""
 
 print(a)
+
+#Strings are arrays
+#Like many other popular programming languages, strings in Python are arrays of unicode characters.
+#However, Python does not have a character data type, a single character is simply a string with a length of 1.
+#Square brackets can be used to access elements of the string.
+#Example:
+
+a = "Hello World"
+print(a[1])
+
+# Looping through a string
+#Since strings are arrays, we can loop through the characters in a string, with a for loop.
+
+for x in "banana":
+    print(x)
+
+#String Length
+
+a = "Hello, World!"
+print(len(a))
+
+#Check String
+
+#To check if a certain phrase or character is present in a string, we can use the keyword in.
+
+txt = "The best things in life are free!"
+print("free" in txt)
