@@ -36,7 +36,7 @@ newest_movie = favourite_movies[0]     # presupunem ca primul film este cel mai 
 for movie in favourite_movies[1:]:     # incepem bucla de la al doilea film (index 1)
     if movie["year"] > newest_movie["year"]:
         newest_movie = movie              # actualizam variabila
-print(f"Newest Movie: {newest_movie["title"]} - {newest_movie["year"]}")
+print(f"Newest Movie: {newest_movie['title']} - {newest_movie['year']}")
 
 fructe = ["mar","banana","portocala","kiwi"]
 
