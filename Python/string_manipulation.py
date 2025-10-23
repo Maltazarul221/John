@@ -37,7 +37,7 @@ print(text_4[-1].find("nice",-1))
 # sintaxa = string.replace(old,new,count) - old/new sunt obligatorii, count este optional
 text_5 = "We learn python fast. learn"
 print(text_5.replace("learn","study",1)) # count = 1 -> inlocuieste doar prima aparitie
-print(f"New text: {text_5.replace("learn","study",1)}")
+print(f"New text: {text_5.replace('learn','study',1)}")
 
 # .startswith(substring)
 # verifica daca un string incepe cu un anumit substring
