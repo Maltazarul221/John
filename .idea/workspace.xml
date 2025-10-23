@@ -33,6 +33,12 @@
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Maltazarul221/John.git",
+    "accountId": "0de297af-a38d-4f42-8400-7245b99db13b"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Sklearn/linear-regression1.py" root0="FORCE_HIGHLIGHTING" />
   </component>
