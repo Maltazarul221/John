@@ -415,3 +415,8 @@ print(len(a))
 
 txt = "The best things in life are free!"
 print("free" in txt)
+print ("expensive" not in txt)
+
+txt = "The best things in life are free!"
+if "Expensive" not in txt:
+    print("No")

@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a172560-91cc-492e-a1ca-6bf017204ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/git-checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/commands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/matplot1-plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/matplot1-subplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/matplot2-cerinta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/matplot2-tema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/seaborn1-plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/seaborn1-subplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/.ipynb_checkpoints/angajati-checkpoint.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/.ipynb_checkpoints/pandas-teorie-checkpoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/.ipynb_checkpoints/pandas0-cerinta-checkpoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/pandas2-tema.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/pandas1-cerinta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/pandas1-cerinta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/pandas1-tema.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/pandas1-tema.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/Individual Work/1.general_recap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Individual Work/1.general_recap.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -54,6 +46,7 @@
     "Python.3.numpy-ex2-cerinta.executor": "Run",
     "Python.8.visualizer.executor": "Run",
     "Python.app.executor": "Run",
+    "Python.eda1-cerinta.executor": "Run",
     "Python.matplot2-cerinta.executor": "Run",
     "Python.matplot2-tema.executor": "Run",
     "Python.pandas-teorie.executor": "Run",
@@ -62,8 +55,10 @@
     "Python.pandas1-tema.executor": "Run",
     "Python.pandas1.executor": "Run",
     "Python.pandas2-cerinta.executor": "Run",
+    "Python.seaborn.executor": "Run",
     "Python.seaborn1-plot.executor": "Run",
     "Python.seaborn1-subplot.executor": "Run",
+    "Python.seaborn2-cerinta.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -71,7 +66,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.matplot2-tema">
+  <component name="RunManager" selected="Python.seaborn2-cerinta">
     <configuration name="1.general_recap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="ENV_FILES" value="" />
@@ -94,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matplot2-tema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="eda1-cerinta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matplotlib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EDA/cod" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlib/matplot2-tema.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EDA/cod/eda1-cerinta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas1-cerinta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="seaborn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,33 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EDA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas/pandas1-cerinta.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pandas1-tema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas/pandas1-tema.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EDA/seaborn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +142,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matplotlib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seaborn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlib/seaborn1-plot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seaborn/seaborn1-plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seaborn2-cerinta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seaborn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seaborn/seaborn2-cerinta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.matplot2-tema" />
-        <item itemvalue="Python.pandas1-tema" />
-        <item itemvalue="Python.pandas1-cerinta" />
-        <item itemvalue="Python.1.general_recap" />
+        <item itemvalue="Python.seaborn2-cerinta" />
         <item itemvalue="Python.seaborn1-plot" />
+        <item itemvalue="Python.seaborn" />
+        <item itemvalue="Python.eda1-cerinta" />
+        <item itemvalue="Python.1.general_recap" />
       </list>
     </recent_temporary>
   </component>
