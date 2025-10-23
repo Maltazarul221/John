@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a172560-91cc-492e-a1ca-6bf017204ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EDA/cod/.ipynb_checkpoints/eda1-cerinta-checkpoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDA/cod/1_missing_data.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EDA/cod/2_normalizare.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sklearn/commands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sklearn/linear-regression-ex1-cerinta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sklearn/linear-regression1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sklearn/linear-regression2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sklearn/linear-regression3 (optimized).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sklearn/regresie liniara.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA/cod/eda1-cerinta.py" beforeDir="false" afterPath="$PROJECT_DIR$/EDA/cod/eda1-cerinta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seaborn/seaborn2-tema-cerinta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seaborn/seaborn2-tema-cerinta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
