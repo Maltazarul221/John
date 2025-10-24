@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a172560-91cc-492e-a1ca-6bf017204ca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Self Study/Numpy_complete_guide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Study/Numpy_Complete_Guide2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Study/Pandas_Complete_Guide2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self Study/Pandas_complete_guide.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sklearn/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sklearn/Linear_regresion_tema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Food App/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Food App/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Food App/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Food App/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +62,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="3315MP197yISvjAaYGyBYNKLaPO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +78,10 @@
     "Python.8.visualizer.executor": "Run",
     "Python.Ghid_complet_numpy.executor": "Run",
     "Python.Linear_regresion_tema.executor": "Run",
+    "Python.Numpy_Complete_Guide2.executor": "Run",
+    "Python.Numpy_complete_guide.executor": "Run",
+    "Python.Pandas_Complete_Guide2.executor": "Run",
+    "Python.Pandas_complete_guide.executor": "Run",
     "Python.app.executor": "Run",
     "Python.eda1-cerinta.executor": "Run",
     "Python.linear-regression-ex1-cerinta.executor": "Run",
@@ -97,7 +109,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Numpy_complete_guide">
+  <component name="RunManager" selected="Python.Numpy_Complete_Guide2">
     <configuration name="Ghid_complet_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="ENV_FILES" value="" />
@@ -120,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linear_regresion_tema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Numpy_Complete_Guide2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sklearn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Self Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sklearn/Linear_regresion_tema.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Self Study/Numpy_Complete_Guide2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear-regression-ex1-cerinta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pandas_Complete_Guide2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sklearn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Self Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sklearn/linear-regression-ex1-cerinta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Self Study/Pandas_Complete_Guide2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear-regression1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pandas_complete_guide" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sklearn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Self Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sklearn/linear-regression1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Self Study/Pandas_complete_guide.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Numpy_Complete_Guide2" />
+        <item itemvalue="Python.Pandas_Complete_Guide2" />
+        <item itemvalue="Python.Pandas_complete_guide" />
         <item itemvalue="Python.Numpy_complete_guide" />
         <item itemvalue="Python.Ghid_complet_numpy" />
-        <item itemvalue="Python.Linear_regresion_tema" />
-        <item itemvalue="Python.linear-regression-ex1-cerinta" />
-        <item itemvalue="Python.linear-regression1" />
       </list>
     </recent_temporary>
   </component>
