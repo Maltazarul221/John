@@ -420,3 +420,22 @@ print ("expensive" not in txt)
 txt = "The best things in life are free!"
 if "Expensive" not in txt:
     print("No")
+
+#Python - Slicing Strings
+
+#You can return a range of characters by using the slicing syntax.
+#Specify the start index and the end index, separated by a colon, to return a part of the string.
+
+b = "Hello World"
+print(b[2:5])   # from position 2 to 5 (5 not included)
+
+b = "Hello World"
+print(b[:5])    # from start to position 5 ( 5 not included )
+
+c = "Hello World"
+print(c[2:])    # from position 2 all the way to the end
+
+# Negative Indexing
+
+b = "Hello World"
+print(b[-5:-2])
