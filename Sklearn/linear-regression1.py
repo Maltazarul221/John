@@ -80,4 +80,3 @@ plt.ylabel('Price ($1000)')  # etichetă axa Y
 plt.title('Linear Regression: House Prices vs Size')  # titlul graficului
 plt.legend()  # afișează legenda
 plt.show()  # afișează graficul
-
